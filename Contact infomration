@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Contact Us</title>
+</head>
+
+<body>
+  <h1>Jagraj Singh</h1>
+  <h1>3923 Thainwood </h1>
+  <form action="mailto: jsbajwa.jatt@gmail.com" method="post" enctype="text/plain">
+    <label> your name</label>
+    <input type="text" name=" your name" value=""><br>
+    <label> Do you want to upload  file</label>
+    <input type="file" name="" value="">
+    <input type="range" name="" value="">
+    <label>your email</label>
+    <input type="email" name=" your emai;" value=""><br>
+    <label> your message: </label> <br>
+    <textarea name="your message" rows="10" cols="30"></textarea> <br>
+    <input type="submit" name=""><br>
+  </form>
+</body>
+
+</html>
